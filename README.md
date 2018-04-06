@@ -6,7 +6,7 @@
 * ### IDLE을 실행해 Hello, World! 출력하기.
 >IDLE을 실행한 뒤, 아래 코드를 입력한다.
 
-      print("Hello, World!")
+      >>> print("Hello, World!")
 >그 다음, 엔터를 눌러 실행하면 다음과 같은 결과를 얻을 수 있다.
 
   <img src="https://github.com/boringariel/python/blob/master/image/ex1.JPG?raw=true">
