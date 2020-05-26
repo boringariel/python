@@ -9,5 +9,5 @@
       >>> print("Hello, World!")
 >그 다음, 엔터를 눌러 실행하면 다음과 같은 결과를 얻을 수 있다.
 
-  <img src="https://github.com/boringariel/python/blob/master/lecture/image/ex1.JPG?raw=true">
+  <img src="https://github.com/boringariel/python/blob/tmp/lecture/image/ex1.JPG?raw=true">
 > 여기까지 완료되었다면, 다른 문서를 참고해 파이썬 프로그래밍을 시작해 보자.
